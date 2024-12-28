@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Mario Renteria! 👋
 
-<!--
-**MarioRenteria/MarioRenteria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile Developer** with 6+ years of experience, specializing in **MAUI** and **Flutter**.  
+I build **scalable apps** using modern tools and **proven design patterns**.  
+A **problem-solver** and a team player, delivering impactful mobile solutions. 🚀
 
-Here are some ideas to get you started:
+## Skills & Tools 🔧
+- **MAUI** (.NET)
+- **Flutter** (Dart)
+- **Design Patterns**, Clean Architecture
+- **CI/CD** for fast deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 🙌
+I love collaborating with teams, tackling challenges, and creating apps that **make a real impact**.
